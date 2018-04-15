@@ -29,7 +29,7 @@ Main ideas
 
 ![alt text](https://github.com/ScheherazadeZ/markdown-notes/blob/master/Isomers.png )
 
->* ####Constitutional isomers
+>* #### Constitutional isomers
 >
 >|Subtypes|Examples|
 >|:-------------------------------------------:|:-------------------------------------:|
