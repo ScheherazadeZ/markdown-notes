@@ -6,16 +6,16 @@ Main ideas
 ---
 
 ## Stereochemistry
-###1. Enantiomers and the Tetrahedral Carbon
+### 1. Enantiomers and the Tetrahedral Carbon
 
 **_Enantionmer:_**
 _Mirror-image molecules that are __NOT__ superimposible_
 __E.g.__  (+) (-) lactic acid
 
-###2. A brief review of isomerism
+### 2. A brief review of isomerism
 ![alt text](https://github.com/ScheherazadeZ/markdown-notes/blob/master/Isomers.png )
 
-###3. Sequence Rules: The _E,Z_ Designation
+### 3. Sequence Rules: The _E,Z_ Designation
 
 **_E,Z_ System of Nomenclature**
 	_A set of  **Sequence rules** used to assign priorities to the substituent groups on the double bond carbons_
