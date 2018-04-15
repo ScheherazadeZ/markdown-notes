@@ -13,7 +13,7 @@ _Mirror-image molecules that are __NOT__ superimposible_
 __E.g.__  (+) (-) lactic acid
 
 ###2. A brief review of isomerism
-
+(markdown-notes/Isomers.png)
 
 ###3. Sequence Rules: The _E,Z_ Designation
 
