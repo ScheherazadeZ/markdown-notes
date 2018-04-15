@@ -6,7 +6,7 @@ Main ideas
 ---
 
 ## Stereochemistry
-###1. Enantiomers and the Tetrahedral Carbon
+### 1. Enantiomers and the Tetrahedral Carbon
 
 **_Enantionmer:_**
 >_Mirror-image molecules that are __NOT__ superimposible_
@@ -37,7 +37,7 @@ Main ideas
 >|Different functional groups|alcohol **Versus** ether|
 >|Different position of functional groups|Isopropyl amine **Versus** Propyl amine|
 
-###3. Sequence Rules: The _E,Z_ Designation
+### 3. Sequence Rules: The _E,Z_ Designation
 
 **_E,Z_ System of Nomenclature**
 	_A set of  **Sequence rules** used to assign priorities to the substituent groups on the double bond carbons_
@@ -55,13 +55,13 @@ Main ideas
 >	
 >	3. Multiple-bonded atoms are equivalent to the same number of single-bonded atoms.
 
-###4. Chirality at Atoms Other Than Carbon
+### 4. Chirality at Atoms Other Than Carbon
 
 >* Tetrahedral atoms other than carbon such as _silicon, nitrogen, phosphorus, and sulfur_ can also be chirality center.
 >* _In principle,_ trivalent nitrogen is chiral, but _in practice,_ trivalent nitrogen structure undergoes a rapid umbrella-like inversion that interconverts enantiomers so we cannot isolate individual enantiomers except in special cases.
 >* In the case of phosphine (trivalent phosphorus compounds),  stable chiral phosphorus can be separated because of slower inversion speed. e.g. _R_ and _S_ methyl-propyl-phenyl-phosphine.
 
-###5. Prochirality
+### 5. Prochirality
 * **Definition:** The property of a molecule making it convertible from achiral to chiral in a single chemical step.
 
 >**_R configuration_**: When looking at a molecule using Newmen projection, the arrow from higher-priority group to the lower one is clockwise.
