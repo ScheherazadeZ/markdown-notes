@@ -65,12 +65,16 @@ Main ideas
 * **Definition:** The property of a molecule making it convertible from achiral to chiral in a single chemical step.
 
 >**_R configuration_**: When looking at a molecule using Newmen projection, the arrow from higher-priority group to the lower one is clockwise.
+>
 >**_S configuration_**: ......counter-clockwise.
+>
 >**_re face_**: In a prochiral molecule, the face of the plane which the arrow from higher-priority group to the lower one is clockwise
+>
 >**_si face_**: ......counter-clockwise
 
 >**_Prochirality Center:_** The atom that will become the chiral center.
 >
 >For identical atoms/groups on the same prochirality center:
 >**_pro-R:_** when replaced, leads to R chirality.
+>
 >**_pro-S:_** ......S chirality.
