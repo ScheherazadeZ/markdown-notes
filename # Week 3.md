@@ -25,7 +25,7 @@ Main ideas
 >* A molecule is not chiral if it contains a _plane of symmetry_ 
 
 
-###2. A brief review of isomerism
+### 2. A brief review of isomerism
 
 ![alt text](https://github.com/ScheherazadeZ/markdown-notes/blob/master/Isomers.png )
 
